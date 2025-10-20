@@ -33,5 +33,5 @@ Este proyecto fue desarrollado en colaboración por:
 
 | Tablero de Juego | Fin de la Partida |
 | :---: | :---: |
-| [Imagen del tablero 4x4 o 4x5] | [Imagen del marcador final] |
+| [Imagen del tablero 4x5] | [Imagen del marcador final] |
 
